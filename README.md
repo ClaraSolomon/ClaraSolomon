@@ -26,7 +26,7 @@ I'm Clara Solomon!
 * HTML
 * CSS
 * Javascript
-* C++/CPP
+* C++
 * Java
 * Python
 * SQL
