@@ -16,7 +16,7 @@ I'm Clara Solomon!
 * CIS 4340 - 110 Algorithm Design and Analysis
 * CIS 4360 - 110 Strategic Information Systems
 
-<h2> I'm Interested In 👀</h2>
+<h2> 👀 I'm Interested In </h2>
 
 * Front-end 
 * Back-end 
