@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 I'm Clara Solomon!
 
-* I'm a graduate of Texas A&M University - Central Texas with my Bachelors of Science in Computer Information Systems.
+* I'm a recent (December 2022) graduate from Texas A&M University - Central Texas with my Bachelors of Science in Computer Information Systems.
 
 <h2> 🌱 I Will Learn </h2>
 
