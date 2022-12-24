@@ -8,18 +8,37 @@ You can click the Preview link to take a look at your changes.
 
 I'm Clara Solomon!
 
-* I'm a student at Texas A&M University and will be graduating in 2022 with my Bachelors of Science in Computer Science.
+* I'm a graduate of Texas A&M University - Central Texas with my Bachelors of Science in Computer Information Systems.
 
 <h2> 🌱 I Will Learn </h2>
 
-<b>Texas A&M University</b>
-* CIS 4340 - 110 Algorithm Design and Analysis
-* CIS 4360 - 110 Strategic Information Systems
+<b>Texas A&M University - Courses</b>
+* Data Communication
+* Ethics in Computing
+* Python 
+* Web Design
+* Database Design
+* C++ & Advanced C++
+* Business Management
+* Computer Technology and Impact
+* Business Statistics
+* Management Infromation Systems
+* Security & Risk Management
+* Software Engineering for E-Business
+* Structured Query Language
+* Operating Systems
+* Data Visualization
+* Data Structures
+* System Analysis and Design
+* IS Project Management
+* Algorithm Design and Analysis
+* Strategic Information Systems
 
 <h2> 👀 I'm Interested In </h2>
 
-* Front-end 
-* Back-end 
+* Front-End Development
+* Web Design
+* UX Design 
 
 <h2> 💻 My Skills Include </h2>
 
